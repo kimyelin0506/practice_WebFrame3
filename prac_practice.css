@@ -1,0 +1,14 @@
+nav {
+    background-color: rgb(245, 229, 209);
+    font-size: 150%;
+    text-align: center;
+}
+nav a{
+    color:rgb(124, 86, 28);
+}
+h1 {
+    color:chocolate;
+}
+h1, h2, h3, h4, h5 {
+    background-color: rgb(237, 227, 186);
+}
